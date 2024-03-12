@@ -1,3 +1,10 @@
+# Author Kushagra Nigam 
+### Date Created : 11/03/24
+# Last Edited : 12/03/24
+
+
+
+
 import bpy
 
 class ExportShaderSetupPanel(bpy.types.Panel):
